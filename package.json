@@ -1,0 +1,9 @@
+{
+  "name": "expo-45-test",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/runtimes/mobile-app"
+    ]
+  }
+}
